@@ -4,6 +4,14 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Ivan Gemmet",
+  "description": "Sample that shows how to use the Webex SDK with a Webpack 5 project with Typescript.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gleitschirmjaeger/webpack5_typescript_webex_sample.git"
+  },
+  "contributors": [
+    "Ivan Gemmet <https://github.com/gleitschirmjaeger>"
+  ],
   "scripts": {
     "start": "webpack serve"
   },
