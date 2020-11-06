@@ -1,6 +1,8 @@
 # Webpack 5 and Typescript - Webex sample
 This project is a sample that shows how to use the Webex SDK with a Webpack 5 project with Typescript.
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/gleitschirmjaeger/webpack5_typescript_webex_sample)
+
 ## How to get started
 
 ### Create Webex Application
